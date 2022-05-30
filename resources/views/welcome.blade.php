@@ -46,8 +46,8 @@
               <span class="info-box-icon bg-danger elevation-1"><i class="fas fa-thumbs-up"></i></span>
 
               <div class="info-box-content">
-                <span class="info-box-text">Jumlah Pegawai laki laki</span>
-                <span class="info-box-number">{{ $jumlahpegawailakilaki }}</span>
+                <span class="info-box-text">Jumlah Pegawai cowo</span>
+                <span class="info-box-number">{{ $jumlahpegawaicowo }}</span>
               </div>
               <!-- /.info-box-content -->
             </div>
@@ -63,8 +63,8 @@
               <span class="info-box-icon bg-success elevation-1"><i class="fas fa-shopping-cart"></i></span>
 
               <div class="info-box-content">
-                <span class="info-box-text">Jumlah Pegawai perempuan</span>
-                <span class="info-box-number">{{ $jumlahpegawaiperempuan }}</span>
+                <span class="info-box-text">Jumlah Pegawai cewe</span>
+                <span class="info-box-number">{{ $jumlahpegawaicewe }}</span>
               </div>
               <!-- /.info-box-content -->
             </div>
